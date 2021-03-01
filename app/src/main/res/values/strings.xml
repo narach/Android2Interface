@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android2Interface</string>
+    <string name="brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="x">x</string>
+    <string name="note_image">Note Image</string>
+    <string name="screen">Screen</string>
+    <string name="hardware">Hardware</string>
+    <string name="add_note">Add Note</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
